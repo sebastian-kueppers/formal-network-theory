@@ -1,0 +1,8 @@
+old/
+.Rproj.user/
+.Rhistory
+.RData
+empirical example/survey_data.csv
+
+~$*
+.DS_Store
