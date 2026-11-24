@@ -1,6 +1,6 @@
 # A Formal Network Model of Co-Occurring Emotions: Analysis Code
 
-Code and data for Kueppers, S., Auerbach, X., Lange, J. (2027). _A Formal Network Model of Co-Occurring Emotions: Analysis Code_ 
+Code and data for Kueppers, S., Auerbach, X., Lange, J. (2027). _A Formal Network Model of Co-Occurring Emotions_ 
 
 This repository contains the formal co-occurrence model, the toy example, the empirical example (Study 2), the sensitivity analyses, and the theory comparison (IMEC) reported in the manuscript.
 
